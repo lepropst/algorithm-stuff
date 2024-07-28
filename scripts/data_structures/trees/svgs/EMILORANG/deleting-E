@@ -1,0 +1,20 @@
+// AVL Tree
+digraph {
+	E
+	A
+	E -> A
+	M
+	E -> M
+	I
+	M -> I
+	G
+	I -> G
+	L
+	I -> L
+	O
+	M -> O
+	N
+	O -> N
+	R
+	O -> R
+}

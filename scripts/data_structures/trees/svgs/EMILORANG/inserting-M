@@ -1,0 +1,6 @@
+// AVL Tree
+digraph {
+	E
+	M
+	E -> M
+}
